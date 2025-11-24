@@ -107,9 +107,7 @@ This analysis is relevant for:
 
 ## 👤 Author
 
-[Your Name]  
-[Your LinkedIn/Email]  
-[Portfolio Link]
+Ayush Singh
 
 ## 📄 License
 
